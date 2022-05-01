@@ -15,9 +15,8 @@ Each of the repository file pages may be opened in VS Code for further project d
 
 The Run Buddy landing page was created based on the following Mock Up.
 
-    ```md
-    ![Mock Up](./assets/images/Run%20Buddy%20Mock%20Up.jpeg)
-    ```
+![Mock Up](./assets/images/Run%20Buddy%20Mock%20Up.jpeg)
+    
 
 It includes a few functionalities, such as a navigation bar to bring the user through the page to a desired section, branding including a hyperlinked page title to return to the home page, a link to the privacy policy page found in the footer, an interactive iframe Google map and a sign-up form.
 
